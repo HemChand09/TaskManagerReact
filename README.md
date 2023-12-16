@@ -7,5 +7,13 @@
 6) on every taks there is a ```view``` button u can see a pop up with the task details
 7) there is three button on a task ```complet update delete ```
 8) once u clicked on ```complete``` u can not update that task again but user can delete that task the button will enable
+
+***REDUX***
+1) Used Redux Took kit for ```Backend API``` calling
+2) used  ```createApi, fetchBaseQuery ``` to create API End Points
+3) used ``` configureStore setupListeners ``` to crate a redux store state management sysyem
+4) user ```Tailwindcss   ``` to give styles to the components
+5) created ``` a global user   ``` state slice to store the toke and user details 
+
    
 
