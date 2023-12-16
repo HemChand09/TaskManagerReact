@@ -1,3 +1,10 @@
+***AdminLogins***
+```
+Email address : admin@gmail.com
+Password : admin123
+```
+can't create new admin form the frontend there is only one admin for this Tasks so he can see the users and and their completed tasks or all tasks hostory.
+
 ***FrontEnd***
 1) signUp with a new user
 2) after signup the page will route to signin page sinin there
